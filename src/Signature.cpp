@@ -1,5 +1,4 @@
 #include "../inc/blockchain.h"
-#include "../src/KeyPair.cpp"
 
 class Signature {
     private:
